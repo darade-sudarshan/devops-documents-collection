@@ -1,0 +1,12 @@
+Statement: ---------> Grouping of Actions, Effects and Resources
+	Action: ----> Actions means what all things the user/service can perform.(* denotes everyone)
+	Effect: ----> Allow/Deny.
+	Resource: --> Who all can perform these actions.(account URLs, users, etc)(* denotes everyone)
+Statement:
+	Action:
+	Effect:
+	Resource:
+Statement:
+	Action:
+	Effect:
+	Resource:
